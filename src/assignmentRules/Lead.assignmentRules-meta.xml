@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssignmentRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assignmentRule>
+        <fullName>Standard</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <assignedTo>swapnali@opsera.sandbox.io</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Lead.Country</field>
+                <operation>equals</operation>
+                <value>US,USA,United States,United States of America</value>
+            </criteriaItems>
+        </ruleEntry>
+        <ruleEntry>
+            <assignedTo>swapnali@opsera.sandbox.io</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Lead.Country</field>
+                <operation>notEqual</operation>
+                <value>US,USA,United States,United States of America</value>
+            </criteriaItems>
+        </ruleEntry>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>assignmentRule21June</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <assignedTo>swapnali.pise@opsera.io</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Lead.City</field>
+                <operation>equals</operation>
+                <value>Pune</value>
+            </criteriaItems>
+            <criteriaItems>
+                <field>User.LanguageLocaleKey</field>
+                <operation>equals</operation>
+                <value>English</value>
+            </criteriaItems>
+            <criteriaItems>
+                <field>DandBCompany.Country</field>
+                <operation>equals</operation>
+                <value>India</value>
+            </criteriaItems>
+        </ruleEntry>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>assignmentRule22may</fullName>
+        <active>true</active>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>assignmentRule24June</fullName>
+        <active>false</active>
+    </assignmentRule>
+</AssignmentRules>

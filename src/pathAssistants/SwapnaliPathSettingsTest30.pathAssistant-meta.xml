@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathAssistant xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <entityName>Account</entityName>
+    <fieldName>Ownership</fieldName>
+    <masterLabel>SwapnaliPathSettingsTest30</masterLabel>
+    <pathAssistantSteps>
+        <fieldNames>SLAExpirationDate__c</fieldNames>
+        <info>&lt;p&gt;Other SLA Expiration date field&lt;/p&gt;</info>
+        <picklistValueName>Other</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <fieldNames>Site</fieldNames>
+        <info>&lt;p&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Private Account site field&lt;/span&gt;&lt;/p&gt;</info>
+        <picklistValueName>Private</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <fieldNames>AccountNumber</fieldNames>
+        <fieldNames>Name</fieldNames>
+        <info>&lt;p&gt;Please check public value account number and name&lt;/p&gt;</info>
+        <picklistValueName>Public</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <fieldNames>Active__c</fieldNames>
+        <info>&lt;p&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Subsidiary Active field&lt;/span&gt;&lt;/p&gt;</info>
+        <picklistValueName>Subsidiary</picklistValueName>
+    </pathAssistantSteps>
+    <recordTypeName>__MASTER__</recordTypeName>
+</PathAssistant>

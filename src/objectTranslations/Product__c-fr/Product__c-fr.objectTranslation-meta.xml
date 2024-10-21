@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- Product --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- Product --></value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- forbackup_10april_1 --></label>
+        <name>forbackup_10april_1</name>
+    </fieldSets>
+    <gender><!-- Masculine --></gender>
+    <layouts>
+        <layout>ServiceContract-SVMX-HBS%3A Service Contract Page Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Product Name --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+    <webLinks>
+        <label>Soumettre</label>
+        <name>Submit</name>
+    </webLinks>
+</CustomObjectTranslation>

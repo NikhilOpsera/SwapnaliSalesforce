@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <webLinks>
+        <label><!-- Billing --></label>
+        <name>Billing</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Google_map --></label>
+        <name>Google_map</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Google_search --></label>
+        <name>Google_search</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- CustomTranslationSwapnali --></value>
+    </caseValues>
+    <fieldSets>
+        <label>カスタムレイアウト</label>
+        <name>CustomLayout</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- NewField set --></label>
+        <name>NewField_set</name>
+    </fieldSets>
+    <nameFieldLabel><!-- CustomTranslationSwapnali Name --></nameFieldLabel>
+    <quickActions>
+        <label><!-- Add Member --></label>
+        <name>QuickAction14may</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Email --></label>
+        <name>swapnali_pise</name>
+    </quickActions>
+    <recordTypes>
+        <label>新記録</label>
+        <name>new_Record</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Please enter valid country name --></errorMessage>
+        <name>PriceCheck</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Enter valid price --></errorMessage>
+        <name>PriceCheck2</name>
+    </validationRules>
+    <webLinks>
+        <label>送信ボタ</label>
+        <name>SubmitButton</name>
+    </webLinks>
+</CustomObjectTranslation>

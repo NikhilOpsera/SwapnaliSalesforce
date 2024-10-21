@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>Hierarchy</customSettingsType>
+    <description>CustomSetting19June created by Swapnali</description>
+    <enableFeeds>false</enableFeeds>
+    <label>CustomSetting19June</label>
+    <visibility>Public</visibility>
+</CustomObject>

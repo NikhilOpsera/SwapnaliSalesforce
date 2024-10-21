@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Google_map</fullName>
+    <availability>online</availability>
+    <displayType>link</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <hasMenubar>false</hasMenubar>
+    <hasScrollbars>true</hasScrollbars>
+    <hasToolbar>false</hasToolbar>
+    <height>600</height>
+    <isResizable>true</isResizable>
+    <linkType>url</linkType>
+    <masterLabel>Google map</masterLabel>
+    <openType>newWindow</openType>
+    <position>none</position>
+    <protected>false</protected>
+    <showsLocation>false</showsLocation>
+    <showsStatus>false</showsStatus>
+    <url>https://www.google.com/maps/place/Pune+Cantonment,+Pune,+Maharashtra/@18.4974826,73.8776157,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c02d5b9dd9d7:0xdbde28688115fcc!8m2!3d18.4989676!4d73.8957205!16s%2Fm%2F07khl6n?entry=ttu&amp;g_ep=EgoyMDI0MTAwMS4wIKXMDSoASAFQAw%3D%3D</url>
+</WebLink>
