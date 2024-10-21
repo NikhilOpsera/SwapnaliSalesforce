@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- Description --></value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- SummaryFieldSet --></label>
+        <name>SummaryFieldSet</name>
+    </fieldSets>
+    <layouts>
+        <layout>service  contract</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Description Name --></nameFieldLabel>
+</CustomObjectTranslation>

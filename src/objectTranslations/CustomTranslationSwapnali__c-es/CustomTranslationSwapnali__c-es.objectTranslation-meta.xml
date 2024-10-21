@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>CustomTranslationSwapnali</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>CustomTranslationSwapnalis</value>
+    </caseValues>
+    <fieldSets>
+        <label>Layout</label>
+        <name>CustomLayout</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- NewField set --></label>
+        <name>NewField_set</name>
+    </fieldSets>
+    <gender>Feminine</gender>
+    <nameFieldLabel>Traducción personalizadaSwapnaliName</nameFieldLabel>
+    <quickActions>
+        <label><!-- Add Member --></label>
+        <name>QuickAction14may</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Email --></label>
+        <name>swapnali_pise</name>
+    </quickActions>
+    <recordTypes>
+        <label><!-- new Record --></label>
+        <name>new_Record</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Please enter valid country name --></errorMessage>
+        <name>PriceCheck</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Enter valid price --></errorMessage>
+        <name>PriceCheck2</name>
+    </validationRules>
+    <webLinks>
+        <label>Botón de enviar</label>
+        <name>SubmitButton</name>
+    </webLinks>
+</CustomObjectTranslation>
