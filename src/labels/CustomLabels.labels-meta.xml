@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Add_Pipeline_id</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add Pipeline id</shortDescription>
+        <value>123675</value>
+    </labels>
+    <labels>
+        <fullName>button</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>button</shortDescription>
+        <value>button modified</value>
+    </labels>
+    <labels>
+        <fullName>button_dup</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>button_dup</shortDescription>
+        <value>button modified _dup</value>
+    </labels>
+    <labels>
+        <fullName>customlabel14may</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>customlabel14may</shortDescription>
+        <value>14</value>
+    </labels>
+    <labels>
+        <fullName>customlabel14may_dup</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>customlabel14may_dup</shortDescription>
+        <value>14_dup</value>
+    </labels>
+    <labels>
+        <fullName>customlabelAug7</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>customlabelAug7</shortDescription>
+        <value>August7</value>
+    </labels>
+    <labels>
+        <fullName>customlabelAug7_1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>customlabelAug7-1</shortDescription>
+        <value>August 2 two</value>
+    </labels>
+    <labels>
+        <fullName>customlabelAug7_2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>customlabelAug7-2</shortDescription>
+        <value>August 7 third label</value>
+    </labels>
+    <labels>
+        <fullName>label22</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label22_1</shortDescription>
+        <value>22 April - 1</value>
+    </labels>
+    <labels>
+        <fullName>label23</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label23</shortDescription>
+        <value>label23</value>
+    </labels>
+    <labels>
+        <fullName>object</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>object</shortDescription>
+        <value>hi</value>
+    </labels>
+</CustomLabels>
